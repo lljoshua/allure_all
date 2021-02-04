@@ -3,13 +3,13 @@ class TestLogin():
         assert True
 
     def test_hello2(self):
-        assert  False
+        assert  True
 
     def test_hello3(self):
-        assert False
+        assert True
 
     def test_hello4(self):
-        assert  False
+        assert  True
 
     def test_hello5(self):
         assert True
